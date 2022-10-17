@@ -109,7 +109,7 @@ npm start
 
 ## 🍰 Contributing
 
-- Feel free to contribute and put your touch. Create a branch, add commits, and [open a pull request](https://github.com/ibralassaf/things-have-to-do/compare).
+- Feel free to contribute and put your touch. Create a branch, add commits, and [open a pull request](https://github.com/ibralassaf/spotify-clone/compare).
 
 ## 🛡️ License
 
