@@ -98,14 +98,19 @@ npm start
 ---
 
 > **Note**
-> You have to get your own spotify credential
+> You have to get your own spotify credentials
 
 - **Visit https://link.ibas.dev/spotifyapi**
 - **Create project and get your credential**
+  <br/>
   <img src="https://support.heateor.com/wp-content/uploads/2020/10/spotify-client-id.png" alt="spotify api showcase">
+  <br/>
 - **Edit settings and add the callback URL**
+
   <img src="https://i.imgur.com/R7M9NLC.png" alt="edit settings">
-  You are all set! Open [localhost:3000](http://localhost:3000/) to see the app.
+  <br/>
+
+  > You are all set! Open [localhost:3000](http://localhost:3000/) to see the app.
 
 ## 🍰 Contributing
 
@@ -113,7 +118,7 @@ npm start
 
 ## 🛡️ License
 
-This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
+- This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
