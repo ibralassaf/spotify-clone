@@ -39,11 +39,9 @@
 
 Spotify Clone is built using some interesting tech stack that I learned a lot from it I clone Spotify and mimic the design, and created the functionality such as playing the song, stopping, volume up and down, fetching the playlist, and fetching the songs with the details such as image and title duration, etc, and authenticated using oAuth JWT access/refresh tokens and NextAuth applied a lot of principles such as Debouncing in the volume and Recoil for the state and created a custom hook for Spotify
 
-## 💻 Techstack & methodologies
+## 💻 Tech Stack Used
 
-"Spotify Clone" built with modern tech stack, Here're some of it .
-
-> Techstack and librarys
+> "Spotify Clone" built with modern tech stack, Here're some of it .
 
 - ⚙️ **Nextjs 12** (Back-end and routing)
 - ⚙️ **React** (Front-end)
